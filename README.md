@@ -51,21 +51,3 @@ This project implements an audio classification system capable of categorizing u
 
 ---
 
-## 📁 Project Structure
-📦 audio-classifier/
-├── dataset_preprocessing/
-│ └── noise_addition.py
-├── features/
-│ └── extract_features.py
-├── models/
-│ └── random_forest_classifier.py
-├── pitch_detection/
-│ ├── autocorrelation.py
-│ ├── hps.py
-│ └── piptrack.py
-├── results/
-│ └── accuracy_metrics.csv
-├── utils/
-│ └── visualization.py
-└── main.py
-
